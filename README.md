@@ -1,2 +1,3 @@
-# house-pet-sim
-A basic simulator for the house pet project
+# housepet-sim
+
+A simulator for the housepet project.
